@@ -1,2 +1,2 @@
 # Hashing
-Project to test oerformance difference between MD5,SHA1, SHA256, SHA384, SHA512
+Project to test Performance difference between MD5,SHA1, SHA256, SHA384, SHA512
